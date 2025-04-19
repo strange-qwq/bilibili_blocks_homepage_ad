@@ -2,7 +2,7 @@
 // @name         bilibili屏蔽首页推广
 // @namespace    https://github.com/strange-qwq/bilibili_blocks_homepage_ad
 // @version      2025-04-19
-// @description  bilibili屏蔽首页推广
+// @description  屏蔽首页广告及推广视频
 // @author       QWQ
 // @match        https://www.bilibili.com/
 // @grant        none
